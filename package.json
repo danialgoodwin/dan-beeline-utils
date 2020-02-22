@@ -1,0 +1,19 @@
+{
+  "name": "dan-beeline-utils",
+  "version": "0.1.0",
+  "description": "Common code for Beeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danialgoodwin/dan-beeline-utils.git"
+  },
+  "author": "Danial Goodwin",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/danialgoodwin/dan-beeline-utils/issues"
+  },
+  "homepage": "https://github.com/danialgoodwin/dan-beeline-utils#readme"
+}
