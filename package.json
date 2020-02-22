@@ -2,8 +2,9 @@
   "name": "dan-beeline-utils",
   "version": "0.2.0",
   "description": "Common code for Beeline",
-  "main": "index.js",
+  "main": "dist/beeline-utils.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\""
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/danialgoodwin/dan-beeline-utils/issues"
   },
-  "homepage": "https://github.com/danialgoodwin/dan-beeline-utils#readme"
+  "homepage": "https://github.com/danialgoodwin/dan-beeline-utils#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
 }
